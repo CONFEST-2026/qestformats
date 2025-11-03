@@ -14,4 +14,4 @@ jobs:
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${{ secrets.CONFEST_REDEPLOY }}" \
             -H "Content-Type: application/json" \
-            -d '{"event_type":"rebuild-from-fmics"}'
+            -d '{"event_type":"rebuild-from-qestformats"}'
