@@ -1,0 +1,5 @@
+submenu:
+- name: Info
+  relative_url: /qestformats
+- name: Call for papers
+  relative_url: /qestformats/call-for-papers
