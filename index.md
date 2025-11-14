@@ -9,13 +9,18 @@ layout: default
 # QEST + FORMATS
 
 
+<div class="row" style="clear:both; margin-top:10px;margin-bottom:10px;" markdown="1">
 
+
+In recent years **QEST** and **FORMATS** have joined up as one. The 2026 event will take place as part of CONFEST 2026.
+
+<div class="col col-md-6" markdown="1">
 **QEST**, the International Conference on Quantitative Evaluation of SysTems, is the leading forum on evaluation and verification of computer systems and networks, through stochastic models and measurements.
-
+</div>
+<div class="col col-md-6" markdown="1">
 **FORMATS**, the International Conference on Formal Modeling and Analysis of Timed Systems, aims to promote the study of fundamental and practical aspects of timed systems, including modelling, design, and analysis.
+</div>
+</div>
 
-In recent years both events have joined up as one. The 2026 event will take place as part of CONFEST 2026.
 
-The QEST+FORMATS PC Chairs will be: Max Tschaikowski and Mingshuai Chen.
-
-Further details can be found on the Further details can be found on the <a style="border: solid 3px rgb(83,128,163); padding: 5px;font-size:large" href="https://www.qest-formats.org/">QEST+FORMATS website →</a>.
+Further details can be found on the <a style="border: solid 3px rgb(83,128,163); padding: 5px;font-size:large" href="https://www.qest-formats.org/">QEST+FORMATS website →</a>.
