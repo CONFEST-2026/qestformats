@@ -2,10 +2,13 @@
 layout: default
 # subnav: qestformats
 ---
+<p style="float:right>
+<a style="border: solid 3px rgb(83,128,163); padding: 5px;font-size:large;float:right" href="https://www.qest-formats.org/">QEST+FORMATS website →</a>
+</p>
 
 # QEST + FORMATS
 
-<a style="border: solid 3px rgb(83,128,163); padding: 5px;font-size:large;float:right" href="https://www.qest-formats.org/">QEST+FORMATS website →</a>.
+
 
 **QEST**, the International Conference on Quantitative Evaluation of SysTems, is the leading forum on evaluation and verification of computer systems and networks, through stochastic models and measurements.
 
